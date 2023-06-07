@@ -1,5 +1,4 @@
 # Video game. Create a charachter and make it fight
-
 import random
 from time import sleep
 
